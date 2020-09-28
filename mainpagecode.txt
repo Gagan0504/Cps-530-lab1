@@ -4,6 +4,9 @@
 <head>
 <meta charset="UTF-8">
 <title>Gagan Lab1 Webpage</title>
+<script type="text/javascript">
+var password= prompt('Please enter a password: ','');
+	if (password!='gagan') top.location= 'mainpage.html';</script>
 </head>
 
 <body style="background-color:#7EDFFB">
