@@ -19,6 +19,10 @@
 <a href="https://validator.nu/?doc=https%3A%2F%2Fgagan0504.github.io%2FCps-530-lab1%2Fmainpage.html">Click here for validation report</a>
 
 
+</body>
+</html>
+
+
 
 
 

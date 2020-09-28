@@ -17,16 +17,36 @@
 
 
 
-<p> How did I password protect my page? </br> Answer: By a method used in password protecting. </p>
+
+<h2> How did I password protect my page?</h2>
+<p> Answer: By a method used in javascript to create password protection. </p>
 
 
-<p>What new tags I tried? What were its effects?  </br> Answer:  The new tags that I tried are the image tag "img", table tag "table". The effects of this tags were, I was able to add images and table in the webpage which enhanced the looks of the page and made it easier to understand the webpage.</p>
+<h2>What new tags I tried? What were its effects?</h2>
+<p> Answer:  The new tags that I tried are the image tag "img", table tag "table". The effects of this tags were, I was able to add images and table in the webpage which enhanced the looks of the page and made it easier to understand the webpage.</p>
 
 
-<p> Does my page look different in different browsers? </br> Answer:  Although the content of the page is same, the interface of the webpage changes when I open the page in my mobile phone that is the positioning of the table and images change. </p>
+<h2> Does my page look different in different browsers?</h2>
+<p>Answer:  The page doesnt look different, I tried in my phone and it is the same as well. </p>
 
 
-<p> How long did I took to complete this lab ? </br> The time taken to complete this lab was approximately 2 hours, as I had to learn the password protecting methods and validation methods. </p>
+<h2> How long did I took to complete this lab ? </h2>
+<p> The time taken to complete this lab was approximately 2 hours, as I had to learn the password protecting methods and validation methods. </p>
+
+
+<p>Technical page code:</p>
+<a href="technicalpage.txt">Click here for technical page code</a>
+
+<p> Main page code:</p>
+<a href="mainpagecode.txt"> Click here for main page code</a>
+
+<p> Validation page code:</p>
+<a href="validationcode.txt"> Click here for validation page code </a>
+
+
+
+
+
 
 
 
